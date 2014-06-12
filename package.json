@@ -1,6 +1,6 @@
 {
   "name": "express-inject-latency",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Inject random latency into express requests.",
   "main": "index.js",
   "scripts": {
